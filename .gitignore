@@ -7,8 +7,7 @@ __pycache__/
 # Data files
 data/
 
-# Model files
-models/
+
 
 # Python cache
 __pycache__/
