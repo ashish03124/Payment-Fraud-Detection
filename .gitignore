@@ -1,0 +1,23 @@
+__pycache__/
+*.pkl
+*.ipynb_checkpoints
+*.log
+*.DS_Store
+.env
+# Data files
+data/
+
+# Model files
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+venv/
+
+# IDE files
+.vscode/
+.idea/

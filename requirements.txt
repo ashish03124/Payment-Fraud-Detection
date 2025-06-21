@@ -1,0 +1,8 @@
+flask
+numpy
+joblib
+pandas
+scikit-learn
+xgboost
+shap
+streamlit  # optional
